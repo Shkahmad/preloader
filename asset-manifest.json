@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/preloader/static/css/main.13caac4d.css",
+    "main.js": "/preloader/static/js/main.96191510.js",
+    "static/js/787.3f5d313d.chunk.js": "/preloader/static/js/787.3f5d313d.chunk.js",
+    "index.html": "/preloader/index.html",
+    "main.13caac4d.css.map": "/preloader/static/css/main.13caac4d.css.map",
+    "main.96191510.js.map": "/preloader/static/js/main.96191510.js.map",
+    "787.3f5d313d.chunk.js.map": "/preloader/static/js/787.3f5d313d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13caac4d.css",
+    "static/js/main.96191510.js"
+  ]
+}
